@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://yathireddi.github.io/example/",
+  "homepage" : "https://github.com/yathireddi/example.git",
 "scripts": {
   "lint": "eslint .",
   "dev": "vite",
